@@ -1,8 +1,19 @@
 package com.demo.tests;
 
-import jdk.jfr.StackTrace;
+
+
 import org.junit.Test;
 
+import static org.junit.Assert.fail;
+
 public class ProductImplTest{
+
+
+    @Test
+    public void thisIsASampleTestCase(){
+
+        fail("Not yet implemented");
+
+    }
 
 }
